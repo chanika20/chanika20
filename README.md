@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chanika20
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning computer systems & Network Engineering @SLIIT
+- 🌱 I’m currently  @SLIIT
 - 📫 How to reach me t.me/chanika20
 
 <!---
