@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chanika20
 - 👀 I’m interested in Coding
-- 🌱 I’m currently  @SLIIT
+- 🌱 I’m currently studying @SLIIT
 - 📫 How to reach me t.me/chanika20
 
 <!---
