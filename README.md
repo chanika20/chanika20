@@ -22,4 +22,8 @@ Hi guys, I'm **Chanika**. I am an undergraduate student from SLIIT, Sri Lanka.
 ---
 [![](https://visitcount.itsvg.in/api?id=chanika20&icon=5&color=1)](https://visitcount.itsvg.in)
 
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=To+See+The+World,;Things+Dangerous+To+Come,;To+Find+Each+Other+And+To+Feel.;That+Is+Life+.+.+.+.;+.+.+.;_Chanika+Gayashan&center=true">
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
