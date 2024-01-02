@@ -1,3 +1,12 @@
+## 👋 Introduction
+
+<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
+
+![status](https://img.shields.io/badge/status-up-brightgreen)
+
+Hi guys, I'm **Li Zheming**. I am a JavaScript developer from Beijing, China. I'm currently working on @75team as a Font-End engineer.  
+I have some works with **JavaScript**, **Node.js** and **SVG**, contact me if you have same interesting or some questions!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chanika20) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chanika_gayashan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chanika-gayashan) 
