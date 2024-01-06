@@ -5,7 +5,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen)
 
-Hi guys, I'm **Chanika Gayashan**. I am an undergraduate student from SLIIT, Sri Lanka.
+Hi guys, I'm **Chanika Gayashan**. I am an undergraduate student from Sri Lanka.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chanika20) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chanika_gayashan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chanika-gayashan) 
 
